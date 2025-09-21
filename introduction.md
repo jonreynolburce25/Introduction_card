@@ -1,6 +1,6 @@
 # 👋 Hello! My name is **Jon Reynol Burce!**
 
-I'm so excited to learn more about **GitHub, Git, and programming languages** — but I know I’ll probably crash out in the middle of my late-night debugging sessions. However, this will help me improve myself every single day in my tech career. 🚀
+I'm so excited to learn more about **GitHub, Git, and programming languages** — but I know I’ll probably crash out in the middle of my late-night debugging sessions or even find myself questioning why I pursued this career (hopefully not🙂). However, this will help me improve myself every single day in my tech career. 🚀
 
 ## 🎯 About Me
 
