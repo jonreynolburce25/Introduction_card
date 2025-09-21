@@ -6,7 +6,11 @@ I'm so excited to learn more about **GitHub, Git, and programming languages** �
 
 - 📍 From **Quinastillojan, Tabaco City, Albay**
 - 🎓 First year student at **Bicol University** taking **BS in Computer Science**
-- 🌱 Inspired by the idea: _“Small daily improvements = Big results”_
+- 💡 Reasons why I pursue this:
+  1.  🧠 I want my college course to be aligned with my senior high strand, which is STEM.
+  2.  💻 I have an interest in technology, especially in the software side of the field.
+  3.  🏆 I chose this because I want to challenge myself and improve my skills in this field.
+- 🌱 Inspired by the idea: “Small daily improvements = Big results”
 - 🤔 I am still figuring out my path after college — currently choosing between:
   1. 🔒 Cybersecurity
   2. 📊 Data Analysis
