@@ -1,6 +1,6 @@
 # 👋 Hello! My name is **Jon Reynol Burce!**
 
-I'm so excited to learn more about **GitHub, Git, and programming languages** — but I know I’ll probably crash out in the middle of my late-night debugging sessions or even find myself questioning why I pursued this career (hopefully not🙂). However, this will help me improve myself every single day in my tech career. 🚀
+I'm so excited to learn more about **GitHub, Git, and programming languages** — but I know I’ll probably crash out in the middle of my late-night debugging sessions or even find myself questioning why I pursued this career (hopefully not🙂). Nevertheless, this will help me improve myself every single day in my tech career. 🚀
 
 ## 🎯 About Me
 
@@ -36,6 +36,7 @@ Build a **stunning and aesthetic website** with strong **UI/UX design** that sho
 ## 📚🎮🖌️ Hobbies
 
 - 😴💤 Sleeping (especially in cold weather 🌧️)
+- 🎥✨ I really love watching movies, series, and anime!!
 - 🎮 Playing video games (Valorant, formerly Mobile Legends 🎯)
 - 🎶 Listening to hype music (_fav artists: kiyo & Chase Atlantic_)
 - 📖 Learning and studying on [roadmap.sh](https://roadmap.sh)
