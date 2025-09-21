@@ -10,7 +10,7 @@ I'm so excited to learn more about **GitHub, Git, and programming languages** �
   1.  🧠 I want my college course to be aligned with my senior high strand, which is STEM.
   2.  💻 I have an interest in technology, especially in the software side of the field.
   3.  🏆 I chose this because I want to challenge myself and improve my skills in this field.
-- 🌱 Inspired by the idea: “Small daily improvements = Big results”
+- 🌱 Inspired by the idea: _“Small daily improvements = Big results”_
 - 🤔 I am still figuring out my path after college — currently choosing between:
   1. 🔒 Cybersecurity
   2. 📊 Data Analysis
@@ -39,7 +39,8 @@ Build a **stunning and aesthetic website** with strong **UI/UX design** that sho
 - 🎥✨ I really love watching movies, series, and anime!!
 - 🎮 Playing video games (Valorant, formerly Mobile Legends 🎯)
 - 🎶 Listening to hype music (_fav artists: kiyo & Chase Atlantic_)
-- 📖 Learning and studying on [roadmap.sh](https://roadmap.sh)
+- 📖 Learning and studying on [roadmap.sh] and [brilliant.org] (https://roadmap.sh) (https://brilliant.org)
+- 🧩⌛ Love solving Rubik’s Cube and beating my fastest records
 - 🌐🔒 Studying cryptocurrency especially memecoins to understand how the world
   works and stay updated about the world news and trends.
 
